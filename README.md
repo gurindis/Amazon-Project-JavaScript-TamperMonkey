@@ -39,7 +39,7 @@
 2-Dynamic Metrics Update  
 >Stops Completed %, Shift Completed %, DPPH, OODT Stops needs to be updated once the stops completed data on the website refreshes for each route
 
-3-Remove the default Sort dropdownlist thats already present on the website and replace it with my own in 2 instances:  
+3-Remove the default Sort dropdown list that's already present on the website and replace it with my own list in 2 instances:  
 >When the website initially loads
 >
 >
