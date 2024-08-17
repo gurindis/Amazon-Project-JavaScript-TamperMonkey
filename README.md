@@ -1,5 +1,5 @@
 # JavaScript-TamperMonkey
-**Summary:** This tampermonkey script runs on a website and adds multiple features to the website:  
+**Summary:** This tampermonkey script (600+ lines of code) runs on a website and adds multiple features to the website:  
 1-Metrics display  
 2-Sort button  
 3-Sort dropdown list
